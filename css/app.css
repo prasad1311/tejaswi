@@ -1,0 +1,118 @@
+
+
+
+.banner{ 
+     position: absolute; 
+     height: 440vh; 
+     width:100%;
+     background-image: url("../images/bannerhead.jpg" );
+     background-position: center; 
+    
+     background-size: cover;
+     margin:10 10 10 10;
+ } 
+
+     
+
+ 
+ .banner-content{
+    
+    height:440vh;
+    color:rgb(1, 7, 8);
+    font-style: italic;
+  
+    width:100%;
+    font-weight: bolder;
+    
+    font-family:serif;
+    text-align:center;
+    text-shadow: 5px 5px 10px rgb(252, 245, 246);
+
+    
+
+   
+   
+ }
+ .p1{
+   color:rgb(114, 236, 48);
+   text-shadow:5px 5px 10px rgb(12, 11, 12);
+ }
+ .p2{
+   font-size: 25px;
+   color:aqua;
+ }
+ .p3{
+  font-size: 25px;
+  
+
+ }
+ .p4{
+    color:rgb(9, 8, 8);
+    
+    text-shadow:5px 5px 10px rgb(235, 185, 201);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    box-shadow: 5px 5px 10px rgb(191, 227, 180);
+ }
+.imagebb{
+  border-radius: 20px;
+  
+  border:5px  rgb(7, 9, 5) solid;
+  box-shadow:6px 10px 20px rgb(228, 238, 238);
+
+
+}
+.video1{
+  width: 100%;
+  margin: 10px;
+  padding: 10;
+  border: 6px grey;
+  box-shadow: 5px 5px 20px rgb(216, 93, 177);
+}
+.links11{
+    text-decoration:none;
+    font-size: 30px;
+    color:rgb(227, 242, 17);
+ 
+   
+}
+.imageb{
+  border-radius: 20px;
+ 
+  border:5px  rgb(236, 244, 238) solid;
+  box-shadow:6px 10px 20px rgb(118, 221, 77);
+
+}
+.line{
+   color:white;
+   text-shadow:5px 5px 10px black;
+   font-size: 22px;
+}
+#zoom:hover{
+  
+zoom:75%;
+  
+  
+}
+.loc{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+    box-shadow: 5px 6px 10px rgb(240, 240, 244);
+    color:rgb(108, 68, 207);
+    text-shadow: 5px 5px 10px pink;
+    border-radius: 10px;
+
+}
+.animate{
+  animation-iteration-count: infinite;
+
+}
+.animate:hover{
+    color:chartreuse;
+}
+.smallp{
+     color:chartreuse;
+}
+.HC{
+  color:white;
+}

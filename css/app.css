@@ -3,7 +3,7 @@
 
 .banner{ 
      position: absolute; 
-     height: 440vh; 
+     height: auto; 
      width:100%;
      background-image: url("../images/bannerhead.jpg" );
      background-position: center; 
